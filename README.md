@@ -1,4 +1,4 @@
-######Version: 14.0.3 Date: Mon Mar 27 2017 02:50:17 GMT-0600 (CST)
+###### Version: 14.0.3 Date: Mon Mar 27 2017 02:50:17 GMT-0600 (CST)
 
 # HuroCup Laws of the Game 
 #Archery (Pro)
@@ -31,7 +31,7 @@
 
 [Captura de pantalla 2017-03-22 a la(s) 09.58.35]: /home/liu/图片
 
-###Abstract
+### Abstract
 
 The following rules and regulations govern the archery event of HuroCup, a robotic game and robotics benchmark problem for humanoid robots. 
 
